@@ -1,0 +1,109 @@
+key,Mc,Sc,Nc,Me,Se,Ne,prop,age,type,raw_data,transgene,age_group
+Bories2007,64.0,6.0,21,72.0,5.0,22,AHP dur,P6–10,postnatal,0,G85R,P6–12
+Bories2007,316.0,107.51744040000001,10,551.0,349.7384737,13,capacitance,P6–10,postnatal,0,G85R,P6–12
+Bories2007,1.1,0.387298335,15,1.6,0.824621125,17,rheobase,P6–10,postnatal,0,G85R,P6–12
+Bories2007,-45.1,3.485685012,15,-45.1,3.2984845000000003,17,Vth,P6–10,postnatal,0,G85R,P6–12
+Bories2007,-64.3,5.715767665,27,-64.9,7.238093672000001,31,RMP,P6–10,postnatal,0,G85R,P6–12
+Bories2007,56.9,8.248636251,21,53.4,7.03562364,22,AP amp,P6–10,postnatal,0,G85R,P6–12
+Bories2007,33.3,10.91192009,27,23.8,12.249081599999998,31,Rin,P6–10,postnatal,0,G85R,P6–12
+Bories2007,18.4,7.7459666920000005,15,13.2,3.710795063,17,f-I gain,P6–10,postnatal,0,G85R,P6–12
+Chang2016,-42.8,0.5,10,-41.9,0.8,9,Vth,E13,embryonic,0,G93A,embryonic
+Chang2016,50.4,6.3,10,58.4,5.6,9,Rin,E13,embryonic,0,G93A,embryonic
+Chang2016,-68.5,0.9,10,-67.8,1.6,9,RMP,E13,embryonic,0,G93A,embryonic
+Chang2016,73.6,4.3,10,69.1,8.2,9,AP amp,E13,embryonic,0,G93A,embryonic
+Chang2016,17.8,1.5,10,16.2,2.7,9,AHP amp,E13,embryonic,0,G93A,embryonic
+Chang2016,1.7,0.1,10,1.4,0.3,9,AP dur,E13,embryonic,0,G93A,embryonic
+ElBasiouny2010,727.0,253.0,11,1404.0,1055.0,7,capacitance,P8–10,postnatal,0,G85R,
+ElBasiouny2010,-70.03,7.16,34,-69.61,6.16,23,RMP,P8–10,postnatal,0,G85R,
+ElBasiouny2010,16.2,4.78,34,11.4,2.96,23,Rin,P8–10,postnatal,0,G85R,
+Filipchuk2021,64.7,20.10596926,33,76.3,37.48653091,19,AHP dur,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,-65.2,6.319018911000001,33,-64.4,5.230678731999999,19,RMP,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,17.1,10.91466903,33,18.4,9.589577676000001,19,Rin,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,-50.3,10.34021276,33,-49.2,8.281907992999999,19,Vth,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,0.9,0.517010638,33,0.9,0.435889894,19,AP dur,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,1.4,1.148912529,33,1.2,0.435889894,19,rheobase,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,30.5,10.34021276,33,24.4,13.07669683,19,f-I gain,P6–10,postnatal,0,G93A-low,
+Filipchuk2021,59.4,6.893475176,33,55.9,4.7947888380000006,19,AP amp,P6–10,postnatal,0,G93A-low,
+Jorgensen2020,-60.22,7.25,88,-60.2,10.83,37,RMP,P228,in vivo,0,G127X,
+Kuo2004_embryonic,0.11,0.05,27,0.16,0.09,40,f-I gain,E13,embryonic,0,G93A,embryonic
+Kuo2004_embryonic,-49.0,5.0,27,-48.0,5.0,40,Vth,E13,embryonic,0,G93A,embryonic
+Kuo2004_embryonic,-70.0,5.0,27,-69.0,6.0,40,RMP,E13,embryonic,0,G93A,embryonic
+Kuo2004_embryonic,360.0,189.0,27,397.0,237.0,40,Rin,E13,embryonic,0,G93A,embryonic
+Kuo2004_embryonic,2.0,0.5,27,1.9,0.6,40,AP dur,E13,embryonic,0,G93A,embryonic
+Kuo2004_embryonic,77.0,7.0,27,72.0,10.0,40,AP amp,E13,embryonic,0,G93A,embryonic
+Kuo2004_post,10.0,2.0,23,10.0,2.0,16,AHP amp,P7,postnatal,0,G93A,P6–12
+Kuo2004_post,2.5,1.0,23,2.4,0.9,16,AP dur,P7,postnatal,0,G93A,P6–12
+Kuo2004_post,-45.0,10.0,23,-48.0,5.0,16,Vth,P7,postnatal,0,G93A,P6–12
+Kuo2004_post,77.0,14.0,23,71.0,15.0,16,AP amp,P7,postnatal,0,G93A,P6–12
+Kuo2004_post,-52.0,11.0,23,-57.0,11.0,16,RMP,P7,postnatal,0,G93A,P6–12
+Kuo2004_post,52.0,18.0,23,41.0,24.0,16,Rin,P7,postnatal,0,G93A,P6–12
+Kuo2005,-49.0,5.0,27,-48.0,4.0,33,Vth,E12–14,embryonic,0,G93A,embryonic
+Kuo2005,20.0,5.0,26,21.0,5.0,32,AHP amp,E12–14,embryonic,0,G93A,embryonic
+Kuo2005,-70.0,6.0,27,-69.0,6.0,33,RMP,E12–14,embryonic,0,G93A,embryonic
+Kuo2005,3.8,2.0,27,3.7,1.9,33,Gin,E12–14,embryonic,0,G93A,embryonic
+Kuo2005,2.0,0.7,27,1.8,0.6,33,AP dur,E12–14,embryonic,0,G93A,embryonic
+Kuo2005,76.0,8.0,27,72.0,10.0,33,AP amp,E12–14,embryonic,0,G93A,embryonic
+Kuo2020,24.0,10.0,25,32.0,10.0,22,Gin,P8–10,postnatal,0,G93A,P6–12
+Kuo2020,-30.0,6.0,25,-29.0,5.0,22,Vth,P8–10,postnatal,0,G93A,P6–12
+Kuo2020,34.0,18.0,25,36.0,23.0,22,f-I gain,P8–10,postnatal,0,G93A,P6–12
+Kuo2020,0.445,0.247,25,0.466,0.34600000000000003,22,rheobase,P8–10,postnatal,0,G93A,P6–12
+Kuo2020,332.0,103.0,25,338.0,112.0,22,capacitance,P8–10,postnatal,0,G93A,P6–12
+Kuo2020,-59.0,4.0,25,-60.0,5.0,22,RMP,P8–10,postnatal,0,G93A,P6–12
+Martin2013,119.8,29.98132752,32,154.9,33.83637096,10,Rin,E17.5,embryonic,0,G93A,embryonic
+Martin2013,2.65,1.13137085,32,3.05,0.948683298,10,AP dur,E17.5,embryonic,0,G93A,embryonic
+Martin2013,0.11,0.056568542,32,0.13,0.063245553,10,f-I gain,E17.5,embryonic,0,G93A,embryonic
+Martin2013,-65.7,7.919595949,32,-63.7,9.170605214,10,RMP,E17.5,embryonic,0,G93A,embryonic
+Martin2013,31.8,16.40487732,32,33.5,13.28156617,10,AHP dur,E17.5,embryonic,0,G93A,embryonic
+Martin2013,8.1,3.959797975,32,7.1,3.4785054260000003,10,AHP amp,E17.5,embryonic,0,G93A,embryonic
+Martin2013,-47.5,4.525483400000001,32,-48.7,4.427188724,10,Vth,E17.5,embryonic,0,G93A,embryonic
+Martin2013,51.1,11.3137085,32,44.5,12.01665511,10,AP amp,E17.5,embryonic,0,G93A,embryonic
+Martin2013,170.4,39.59797975,32,145.9,38.57978745,10,capacitance,E17.5,embryonic,0,G93A,embryonic
+Martin2013,149.1,71.27636354,32,96.0,73.04861395,10,rheobase,E17.5,embryonic,0,G93A,embryonic
+Meehan2010,-65.18,7.24,33,-61.31,8.11,43,RMP,P242,in vivo,0,G127X,
+Meehan2010,2.27,0.94,24,2.33,0.86,36,Rin,P242,in vivo,0,G127X,
+Meehan2010,11.86,3.98,33,11.56,2.99,42,f-I gain,P242,in vivo,0,G127X,
+Meehan2010,7.83,5.79,32,7.11,3.62,40,rheobase,P242,in vivo,0,G127X,
+Pambo-Pambo_G85R,45.4,2.9,33,47.5,2.3,22,AHP dur,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,58.7,8.042387705,33,61.6,7.5,25,AP amp,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,-35.1,8.042387705,33,-32.5,6.5,25,Vth,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,151.6,42.50976358,33,163.1,36.5,25,f-I gain,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,-58.2,3.446737588,33,-57.8,5.5,25,RMP,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,0.8,1.723368794,33,0.9,0.5,25,AP dur,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,34.5,20.10596926,33,33.1,12.5,25,Rin,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,-11.6,2.872281323,33,-12.2,3.2832910319999997,22,AHP amp,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G85R,1.0,0.574456265,33,0.7,0.5,25,rheobase,P6–10,postnatal,0,G85R,
+Pambo-Pambo_G93A-low,-58.2,3.446737588,33,-55.0,1.8027756380000002,13,RMP,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,45.4,16.66,33,53.3,15.14,13,AHP dur,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,0.8,1.723368794,33,1.46,0.46872166600000004,13,AP dur,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,34.5,20.10596926,33,37.2,15.14331536,13,Rin,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,-11.6,2.872281323,33,-11.4,2.163330765,13,AHP amp,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,-35.1,8.042387705,33,-35.8,6.4899922960000005,13,Vth,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,1.0,0.574456265,33,0.6,0.36055512799999995,13,rheobase,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,58.7,8.042387705,33,51.94,10.05948806,13,AP amp,P6–10,postnatal,0,G93A-low,
+Pambo-Pambo_G93A-low,151.6,42.50976358,33,101.84,28.844410200000002,13,f-I gain,P6–10,postnatal,0,G93A-low,
+Pieri2003,-49.85,7.42,12,-45.65,8.75,21,RMP,E15,embryonic,0,G93A,embryonic
+Pieri2003,82.82,15.24,12,86.7,6.71,21,capacitance,E15,embryonic,0,G93A,embryonic
+Pieri2003,401.5,158.4,12,388.8,113.04,21,Rin,E15,embryonic,0,G93A,embryonic
+Quinlan2011_P0–5,16.0,6.0,24,20.0,10.0,25,Gin,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,273.0,81.0,24,324.0,156.0,25,capacitance,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,-29.0,5.0,14,-27.0,5.0,16,Vth,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,368.0,175.0,16,443.0,281.0,18,rheobase,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,35.0,15.0,15,40.0,23.0,18,f-I gain,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,-57.0,4.0,16,-56.0,4.0,19,RMP,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,9.4,2.3,15,8.9,2.3,15,AHP amp,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P0–5,1.5,0.6,19,1.1,0.3,19,AP dur,P0–5,postnatal,0,G93A,P0–5
+Quinlan2011_P6–10,9.2,3.0,11,10.8,2.9,17,AHP amp,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,664.0,374.0,18,903.0,519.0,27,rheobase,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,26.0,10.0,30,32.0,14.0,32,Gin,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,31.0,15.0,17,33.0,17.0,27,f-I gain,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,321.0,83.0,31,326.0,93.0,31,capacitance,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,-60.0,6.0,20,-60.0,5.0,27,RMP,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,-30.0,7.0,18,-30.0,5.0,26,Vth,P6–12,postnatal,0,G93A,P6–12
+Quinlan2011_P6–10,1.1,0.3,20,0.9,0.2,28,AP dur,P6–12,postnatal,0,G93A,P6–12
+Quinlan2015,217.0,65.0,13,244.0,50.0,8,capacitance,P4–11,postnatal,0,G93A,P6–12
+Quinlan2015,45.0,42.0,13,30.0,8.0,8,Rin,P4–11,postnatal,0,G93A,P6–12
+Quinlan2015,-61.1,4.8,13,-64.7,4.3,8,RMP,P4–11,postnatal,0,G93A,P6–12
+Schuster2012,-50.5,6.4,47,-49.2,5.5,25,RMP,E12–14,embryonic,0,G93A,embryonic
+Schuster2012,30.4,17.5,47,34.0,16.6,25,capacitance,E12–14,embryonic,0,G93A,embryonic
+Schuster2012,0.24,0.09,50,0.251,0.09,28,f-I gain,E12–14,embryonic,0,G93A,embryonic
+Schuster2012,-31.7,3.8,56,-32.7,5.1,25,Vth,E12–14,embryonic,0,G93A,embryonic
